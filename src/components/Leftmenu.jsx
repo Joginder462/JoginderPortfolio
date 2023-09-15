@@ -12,7 +12,7 @@ const Leftmenu = () => {
 
         <div className="menu">
           <li>
-            <a href="#">
+            <a href="#page1">
               <span>
                 <img
                   width="30"
@@ -40,7 +40,7 @@ const Leftmenu = () => {
           </li>
           <li>
             {" "}
-            <a href="#">
+            <a href="#page2">
               <span>
                 <img
                   width="30"
@@ -53,7 +53,7 @@ const Leftmenu = () => {
             </a>
           </li>
           <li>
-            <a href="#">
+            <a href="#page4">
               <span>
                 <img
                   width="30"
@@ -67,7 +67,7 @@ const Leftmenu = () => {
           </li>
           <li>
             {" "}
-            <a href="#">
+            <a href="#page3">
               <span>
                 <img
                   width="30"
@@ -95,7 +95,7 @@ const Leftmenu = () => {
           </li>
           <li>
             {" "}
-            <a href="#">
+            <a href="#Blog">
               <span>
                 <img
                   width="30"
@@ -109,7 +109,7 @@ const Leftmenu = () => {
           </li>
           <li>
             {" "}
-            <a href="#">
+            <a href="#page5">
               <span>
                 <img
                   width="30"

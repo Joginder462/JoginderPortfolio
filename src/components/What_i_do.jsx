@@ -18,7 +18,7 @@ const What_i_do = () => {
 
           <h3>graphic designing</h3>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Earum maiores magni vel dignissimos ullam explicabo esse nulla accusantium! Ipsa, doloribus!
+          "Transforming ideas into captivating visuals – my graphic design service brings your vision to life with creativity and precision. Elevate your brand's aesthetics with designs that resonate and inspire."
           </p>
         </div>
         
@@ -30,7 +30,7 @@ const What_i_do = () => {
             alt="laptop-coding"
           />
           <h3>web development</h3>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe ipsum officia tenetur. Laborum porro perspiciatis repellat repellendus quidem quas eius.</p>
+          <p>Elevate your digital presence with cutting-edge UI development services that fuse innovation and functionality. Crafted to captivate, our web solutions redefine user experiences.</p>
         </div>
 
         <div className="features-box">
@@ -41,7 +41,9 @@ const What_i_do = () => {
             alt="external-seomarketing-seo-filled-outline-filled-outline-satawat-anukul-4"
           />
           <h3>ui/ux designing</h3>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, aspernatur consectetur facere officia soluta sapiente dicta cupiditate modi ad? Harum.</p>
+          <p>
+          Elevate your digital presence with meticulously crafted UI/UX designs that captivate and engage your audience.
+          </p>
         </div>
       </div>
     </div>

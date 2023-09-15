@@ -5,6 +5,7 @@ import Myprojects from "./Myprojects";
 // import Myresume from "./Myresume";
 import Contact from "./Contact";
 import Footer from "./Footer";
+import Skills from "./Skills";
 
 const Rightpage = () => {
   return (
@@ -35,6 +36,11 @@ const Rightpage = () => {
         <What_i_do />
       </div>
 
+      {/* skills div*/}
+      <div>
+        <Skills/>
+      </div>
+
       {/* page3 start */}
       <div id="page3">
         <Myprojects />
@@ -43,6 +49,11 @@ const Rightpage = () => {
       {/* page4 start */}
       {/* <div id="page4">
         <Myresume/>
+      </div> */}
+      
+      {/* Blog start */}
+      {/* <div id="Blog">
+        <Blog/>
       </div> */}
 
       {/* page5 start */}
