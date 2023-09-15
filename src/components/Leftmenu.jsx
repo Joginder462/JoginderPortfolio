@@ -126,9 +126,11 @@ const Leftmenu = () => {
         <div className="left-menu-social-links">
           <h3>find with me</h3>
           <div className="left-menu-social-links-a">
-            <a href="http://"><img width="40" height="40" src="https://img.icons8.com/color/40/facebook-new.png" alt="facebook-new"/></a>
-            <a href="http://"><img width="40" height="40" src="https://img.icons8.com/fluency/40/instagram-new.png" alt="instagram-new"/></a>
-            <a href="http://"><img width="40" height="40" src="https://img.icons8.com/fluency/40/linkedin.png" alt="linkedin"/></a>
+            <a href="https://www.facebook.com/joginderkumar462" target="_blank" rel="noopener noreferrer"><img width="40" height="40" src="https://img.icons8.com/color/40/facebook-new.png" alt="facebook-new"/></a>
+
+            <a href="https://www.instagram.com/nah_itz_rahul" target="_blank" rel="noopener noreferrer"><img width="40" height="40" src="https://img.icons8.com/fluency/40/instagram-new.png" alt="instagram-new"/></a>
+            
+            <a href="https://www.linkedin.com/in/joginder-kumar-188504215" target="_blank" rel="noopener noreferrer"><img width="40" height="40" src="https://img.icons8.com/fluency/40/linkedin.png" alt="linkedin"/></a>
           </div>
         </div>
       </div>

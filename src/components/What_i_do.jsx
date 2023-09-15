@@ -7,8 +7,8 @@ const What_i_do = () => {
       <h2>features</h2>
       <h4>what i do ?</h4>
 
-      <div className="features-boxes">
-        <div className="features-box">
+      <div className="row mx-auto p-3">
+        <div className="col-lg-4 col-md-8 mx-auto text-justify">
           <img
             width="75"
             height="75"
@@ -22,7 +22,7 @@ const What_i_do = () => {
           </p>
         </div>
         
-        <div className="features-box">
+        <div className="col-lg-4 col-md-8 mx-auto text-justify">
           <img
             width="75"
             height="75"
@@ -33,7 +33,7 @@ const What_i_do = () => {
           <p>Elevate your digital presence with cutting-edge UI development services that fuse innovation and functionality. Crafted to captivate, our web solutions redefine user experiences.</p>
         </div>
 
-        <div className="features-box">
+        <div className="col-lg-4 col-md-8 mx-auto text-justify">
           <img
             width="75"
             height="75"
