@@ -7,6 +7,7 @@ const Footer = () => {
       <footer>
         <div>
           <h2>Thanks For Visiting</h2>
+          <a href="https://www.sigmatraffic.com/blog/10-tips-to-reduce-website-bounce-rate-what-s-the-average-bounce-rate?ref=208983">website average bounce rate</a>
         </div>
         <div className="footer_social">
         <p>Please Find Me At -</p>
