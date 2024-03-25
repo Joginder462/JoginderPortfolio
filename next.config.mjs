@@ -1,4 +1,21 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = { images: { domains: ['assets.aceternity.com'], formats: ['image/avif', 'image/webp'], }, }
+const nextConfig = {
+    images: {
+        remotePatterns: [
+          {
+            protocol: 'https',
+            hostname: 'aceternity.com',
+            port: '',
+            pathname: '/**',
+          },
+          {
+            protocol: 'https',
+            hostname: 'assets.aceternity.com',
+            port: '',
+            pathname: '/**',
+          },
+        ],
+      },
+};
 
 export default nextConfig;
